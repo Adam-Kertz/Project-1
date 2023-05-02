@@ -1,0 +1,199 @@
+div {
+	position: absolute;
+	border: 1px solid;
+	background: #FFFFCC;
+	-moz-box-shadow: 3px 3px 5px 0px #ccc;
+	-webkit-box-shadow: 3px 3px 5px 0px #ccc;
+	box-shadow: 3px 3px 5px 0px #ccc;
+}
+
+p {
+	position: absolute;
+	font-family: helvetica, sans-serif;
+	color: #000000;
+	font-size: 14px;
+	margin-left: 40px;
+}
+
+button {
+	position: absolute;
+	margin-top: 160px;
+	width: 100px;
+	height: 36px;
+}
+
+input[type="text"] {
+	-webkit-padding-start: 0px;
+	-webkit-padding-end: 3px;
+	position: absolute;
+	text-align: right;
+	font-family: sans-serif;
+	font-size: 14px;
+	height: 12px;
+	width: 33px;
+}
+
+select {
+	position: absolute;
+	font-family: sans-serif;
+	font-size: 14px;
+	height: 20px;
+}
+
+/* selector fields */
+#prestrend {
+	margin-top: 243px;
+	margin-left: 112px;
+	width: 150px;
+}
+
+#sky_cover {
+	margin-top: 273px;
+	margin-left: 122px;
+	width: 130px;
+}
+
+#visibility_frac {
+	margin-top: 303px; 
+	margin-left: 169px; 
+	width: 60px;
+}
+
+#weather {
+	margin-top: 358px; 
+	margin-left: 40px; 
+	width: 240px;
+}
+
+/* blocks */
+#main_block {
+	margin-left: 350px;
+	top: 5px;
+	width: 290px;
+	height: 390px;
+}
+
+#message_block {
+	margin-left: 50px;
+	top: 370px;
+	width: 320px;
+	height: 20px;
+	border: 0;
+	background: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+/*text fields*/
+#temperature {
+	margin-top: 39px;
+	margin-left: 135px;
+}
+
+#dewpoint {
+	margin-top: 64px;
+	margin-left: 207px;
+}
+
+#w_speed {
+	margin-top: 114px;
+	margin-left: 112px;
+}
+
+#w_dir {
+	margin-top: 139px;
+	margin-left: 165px;
+}
+
+#pressure {
+	margin-top: 194px;
+	margin-left: 131px;
+	width: 49px;
+}
+
+#pres_3hr {
+	margin-top: 219px;
+	margin-left: 168px;
+}
+
+#visibility {
+	margin-top: 304px;
+	margin-left: 104px;
+	width: 23px;
+}
+
+#message {
+	color: #FF0000;
+	margin-left: 0px;
+	font-size: 12px;
+	margin-top: 0px;
+}
+
+/* labels */
+#line_head {
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+#line_t {
+	margin-top: 40px;
+	color: #990000;
+}
+
+#line_td {
+	margin-top: 65px;
+	color: #009900;
+}
+
+#line_wgrp {
+	margin-top: 90px;
+}
+
+#line_ws {
+	margin-left: 60px;
+	margin-top: 115px;
+}
+
+#line_wd {
+	margin-left: 60px;
+	margin-top: 140px;
+}
+
+#line_pgrp {
+	margin-top: 170px;
+	color: #000099;
+}
+
+#line_p {
+	margin-left: 60px;
+	margin-top: 195px;
+	color: #000099;
+}
+
+#line_dp {
+	margin-left: 60px;
+	margin-top: 220px;
+	color: #000099;
+}
+
+#line_dptr {
+	margin-left: 60px;
+	margin-top: 245px;
+	color: #000099;
+}
+
+#line_sky {
+	margin-top: 275px;
+	color: #990099;
+}
+
+#line_vis {
+	margin-top: 305px;
+	color: #777777;
+}
+
+#line_wx {
+	margin-top: 335px;
+	color: #663300;
+}
