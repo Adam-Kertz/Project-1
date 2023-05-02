@@ -8,4 +8,4 @@ Are sightings more common during a particular month or year? When does BigFoot h
 What is the recurrence of sightings by state/location? What state had the most/least occurrences? Where does BigFoot like to spend the Christmas holidays?
 How many sightings are firsthand? How many are thirdhand? How do first/second sights relate to other criteria in the dataset?
 
-State Analysis: run the state_data file
+State Analysis: state_data.ipynb
