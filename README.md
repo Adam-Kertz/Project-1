@@ -8,4 +8,16 @@ Are sightings more common during a particular month or year? When does BigFoot h
 What is the recurrence of sightings by state/location? What state had the most/least occurrences? Where does BigFoot like to spend the Christmas holidays?
 How many sightings are firsthand? How many are thirdhand? How do first/second sights relate to other criteria in the dataset?
 
-State Analysis: state_data.ipynb
+Where to find our analysis:
+
+Data Selection and Cleanup: timothyrenner-bfro-sightings-data\data_selection.ipynb
+Geoplot (For Preliminary Analysis): timothyrenner-bfro-sightings-data\geoplot.ipynb
+State Analysis: timothyrenner-bfro-sightings-data\state_data.ipynb
+First/Third Hand Analysis: timothyrenner-bfro-sightings-data\first_third.ipynb
+Moon Cycle Analysis: MoonCycle.ipynb
+Seasonal and Yearly Analysis: timothyrenner-bfro-sightings-data\BigFoot_Sightings_Yearly_Analysis.ipynb
+Washington 2005 Summer Analysis: timothyrenner-bfro-sightings-data\bigfoot_weather_data.ipynb
+
+Other Resources:
+Visual Aids for Presentations: Resources\
+Saved csv and other supporting python files: timothyrenner-bfro-sightings-data\
