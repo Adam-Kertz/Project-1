@@ -19,5 +19,5 @@ How many sightings are firsthand? How many are thirdhand? How do first/second si
 **Washington 2005 Summer Analysis:** timothyrenner-bfro-sightings-data\bigfoot_weather_data.ipynb<br>
 <br>
 Other Resources:<br>
-Visual Aids for Presentations: Resources\<br>
+Visual Aids for Presentations: Resources\ <br>
 Saved csv and other supporting python files: timothyrenner-bfro-sightings-data\
